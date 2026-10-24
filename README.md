@@ -4,7 +4,7 @@
 
 Este repositório contém a pipeline de dados e modelagem espacial desenvolvida para estimar e comparar as emissões de dióxido de carbono ($\text{CO}_2$) decorrentes do sistema de transporte de passageiros na Região Metropolitana de São Paulo (RMSP) entre 2017 e 2023.
 
-A análise fundamenta-se nos microdados e matrizes de viagens das edições de 2017 e 2023 da Pesquisa Origem e Destino (OD) do Metrô de São Paulo, estruturados em um banco de dados analítico relacional de alta performance no DuckDB (`pesquisa_od_sp.duckdb`).
+A análise fundamenta-se nos microdados e matrizes de viagens das edições de 2017 e 2023 da Pesquisa Origem e Destino (OD) do Metrô de São Paulo, estruturados em um banco de dados analítico relacional no DuckDB (`pesquisa_od_sp.duckdb`).
 
 ### Objetivos Principais:
 1. **Compatibilização Territorial:** Mapear e padronizar as alterações de zoneamento do Metrô entre 2017 e 2023 através de uma tabela oficial de correspondência (*De-Para*).
