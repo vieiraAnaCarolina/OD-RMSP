@@ -1,8 +1,8 @@
-# Modelo de Estimativa de Emissões de CO₂ na RMSP (2017 vs. 2023)
+# Modelo de Estimativa de Emissões de CO₂ na RMSP 
 
 ## Visão Geral do Projeto e Estrutura do Repositório
 
-Este repositório contém a pipeline de dados e modelagem espacial desenvolvida para estimar e comparar as emissões de dióxido de carbono ($\text{CO}_2$) decorrentes do sistema de transporte de passageiros na Região Metropolitana de São Paulo (RMSP) entre 2017 e 2023.
+Este repositório contém a pipeline de dados e modelagem espacial desenvolvida para estimar e comparar as emissões de dióxido de carbono ($\text{CO}_2$) decorrentes do sistema de transporte de passageiros na Região Metropolitana de São Paulo (RMSP).
 
 A análise fundamenta-se nos microdados e matrizes de viagens das edições de 2017 e 2023 da Pesquisa Origem e Destino (OD) do Metrô de São Paulo, estruturados em um banco de dados analítico relacional no DuckDB (`pesquisa_od_sp.duckdb`).
 
